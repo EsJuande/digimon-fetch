@@ -1,0 +1,14 @@
+{
+    "modules": [
+        {
+        "type": "custom",
+        "key": "󰐗 Partner Digimon",
+        "exec": "digimonfetch --name"
+        },
+        {
+        "type": "custom",
+        "key": "󰆧 Level",
+        "exec": "digimonfetch --level"
+        }
+    ]
+}
